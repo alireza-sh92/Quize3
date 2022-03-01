@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">Quize3</string>
+    <string name="FirstName" />
+    <string name="LastName" />
+    <string name="NationalCode" />
+    <string name="firstname_label">FirstName/label</string>
+    <string name="firstname" />
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="national_code">National Code</string>
 </resources>
